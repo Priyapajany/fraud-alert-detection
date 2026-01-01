@@ -1,0 +1,101 @@
+TransactionID,DateTime,Amount,Merchant,Location,Channel,IsFraud
+T001,2025-12-25 10:32:37.936954,22,Gas Station,Texas,Online,0
+T002,2025-12-04 20:44:37.936954,3733,Amazon,London,Online,1
+T003,2025-12-21 02:52:37.936954,268,Walmart,Texas,In-store,0
+T004,2025-12-27 03:05:37.936954,152,Apple,Texas,In-store,0
+T005,2026-01-01 12:23:37.936954,120,Amazon,New York,In-store,0
+T006,2025-12-21 11:08:37.936954,186,BestBuy,New York,In-store,0
+T007,2025-12-04 19:35:37.936954,3050,Apple,Illinois,Online,1
+T008,2025-12-03 23:31:37.936954,45,Walmart,California,Online,0
+T009,2025-12-10 16:57:37.936954,204,Apple,California,Online,0
+T010,2025-12-24 23:58:37.936954,146,BestBuy,New York,Online,0
+T011,2025-12-16 14:34:37.936954,93,Gas Station,London,Online,0
+T012,2025-12-09 04:08:37.936954,38,Apple,California,In-store,0
+T013,2025-12-31 00:37:37.936954,3823,Target,London,Online,1
+T014,2025-12-06 10:25:37.936954,244,Gas Station,Texas,In-store,0
+T015,2025-12-13 09:25:37.936954,214,Amazon,Illinois,In-store,0
+T016,2025-12-06 22:27:37.936954,66,BestBuy,London,In-store,0
+T017,2025-12-21 16:50:37.936954,3063,BestBuy,London,Online,1
+T018,2025-12-24 01:24:37.936954,15,Gas Station,London,In-store,0
+T019,2025-12-15 07:46:37.936954,160,BestBuy,New York,In-store,0
+T020,2025-12-31 06:12:37.936954,269,Gas Station,London,In-store,0
+T021,2025-12-06 14:05:37.936954,111,BestBuy,Texas,Online,0
+T022,2025-12-05 14:13:37.936954,19,Amazon,California,Online,0
+T023,2026-01-01 04:22:37.936954,300,Amazon,London,In-store,0
+T024,2025-12-26 06:25:37.936954,282,BestBuy,London,In-store,0
+T025,2025-12-29 21:44:37.936954,280,Gas Station,Texas,Online,0
+T026,2025-12-16 18:45:37.936954,201,Walmart,New York,Online,0
+T027,2025-12-20 19:31:37.936954,1586,Amazon,New York,Online,1
+T028,2025-12-09 05:14:37.936954,40,Amazon,New York,In-store,0
+T029,2025-12-23 17:30:37.936954,152,Gas Station,Illinois,Online,0
+T030,2025-12-09 18:08:37.936954,252,Amazon,Florida,Online,0
+T031,2025-12-13 15:43:37.936954,3265,Gas Station,London,Online,1
+T032,2025-12-03 15:03:37.936954,1903,Amazon,London,Online,1
+T033,2025-12-19 16:25:37.936954,107,Apple,Florida,Online,0
+T034,2025-12-16 19:23:37.936954,48,Amazon,New York,Online,0
+T035,2025-12-07 15:48:37.936954,131,Target,Florida,Online,0
+T036,2025-12-14 02:41:37.936954,94,Apple,California,In-store,0
+T037,2025-12-24 00:48:37.936954,294,Apple,Texas,Online,0
+T038,2025-12-21 01:51:37.936954,39,Amazon,New York,In-store,0
+T039,2025-12-18 18:27:37.936954,3452,BestBuy,London,Online,1
+T040,2025-12-04 21:21:37.936954,2261,Target,Texas,Online,1
+T041,2025-12-09 20:55:37.936954,3833,Amazon,London,Online,1
+T042,2025-12-18 13:16:37.936954,299,Gas Station,California,Online,0
+T043,2025-12-10 14:25:37.936954,132,Target,London,In-store,0
+T044,2025-12-02 16:56:37.936954,47,Amazon,Illinois,Online,0
+T045,2025-12-10 07:16:37.936954,269,Walmart,California,Online,0
+T046,2025-12-16 20:02:37.936954,90,Gas Station,California,Online,0
+T047,2025-12-31 23:23:37.936954,163,Amazon,Texas,In-store,0
+T048,2025-12-06 10:35:37.936954,293,Gas Station,Illinois,Online,0
+T049,2025-12-18 17:33:37.936954,145,Gas Station,New York,Online,0
+T050,2025-12-03 02:38:37.936954,151,Walmart,Texas,In-store,0
+T051,2025-12-24 15:52:37.936954,292,Amazon,New York,Online,0
+T052,2025-12-19 04:10:37.936954,86,Target,California,Online,0
+T053,2025-12-13 04:14:37.936954,2762,Gas Station,London,Online,1
+T054,2025-12-13 20:13:37.936954,62,Walmart,Florida,Online,0
+T055,2025-12-30 15:18:37.936954,100,Target,Texas,In-store,0
+T056,2025-12-10 08:07:37.936954,137,Target,London,Online,0
+T057,2025-12-09 09:09:37.936954,250,Apple,Florida,In-store,0
+T058,2025-12-09 02:59:37.936954,126,Apple,Texas,In-store,0
+T059,2026-01-01 10:39:37.936954,45,Gas Station,London,In-store,0
+T060,2025-12-12 02:24:37.936954,284,BestBuy,California,Online,0
+T061,2025-12-03 05:55:37.936954,145,Gas Station,Florida,In-store,0
+T062,2025-12-21 18:24:37.936954,233,Apple,Florida,Online,0
+T063,2025-12-02 19:16:37.936954,3286,Gas Station,London,Online,1
+T064,2025-12-13 15:21:37.936954,110,BestBuy,London,In-store,0
+T065,2025-12-25 11:49:37.936954,73,Apple,California,In-store,0
+T066,2025-12-19 06:29:37.936954,161,Gas Station,Florida,In-store,0
+T067,2025-12-21 20:36:37.936954,99,Apple,Florida,Online,0
+T068,2025-12-27 20:55:37.936954,230,Target,London,In-store,0
+T069,2025-12-18 18:07:37.936954,119,Gas Station,London,Online,0
+T070,2025-12-23 22:56:37.936954,3611,Walmart,London,Online,1
+T071,2025-12-27 08:26:37.936954,125,Walmart,New York,Online,0
+T072,2025-12-16 16:13:37.936954,47,Gas Station,London,Online,0
+T073,2025-12-14 09:26:37.936954,263,Amazon,London,Online,0
+T074,2025-12-08 00:50:37.936954,122,BestBuy,Florida,Online,0
+T075,2025-12-16 07:08:37.936954,72,Target,Florida,In-store,0
+T076,2025-12-15 19:45:37.936954,268,Target,Texas,In-store,0
+T077,2025-12-28 22:34:37.936954,136,Gas Station,Illinois,In-store,0
+T078,2025-12-05 00:35:37.936954,235,Apple,Texas,In-store,0
+T079,2025-12-04 06:26:37.936954,286,Gas Station,Texas,In-store,0
+T080,2025-12-04 15:43:37.936954,119,Target,California,In-store,0
+T081,2025-12-14 21:01:37.936954,3220,BestBuy,London,Online,1
+T082,2026-01-01 13:36:37.936954,13,BestBuy,Florida,In-store,0
+T083,2025-12-27 22:14:37.936954,289,Walmart,Texas,In-store,0
+T084,2025-12-02 14:38:37.936954,258,Gas Station,London,In-store,0
+T085,2025-12-31 06:56:37.936954,249,Target,Illinois,Online,0
+T086,2025-12-04 22:44:37.936954,23,Walmart,Texas,In-store,0
+T087,2025-12-12 08:46:37.936954,3052,Target,London,Online,1
+T088,2025-12-10 04:47:37.936954,225,Apple,New York,Online,0
+T089,2025-12-26 22:19:37.936954,45,Walmart,New York,Online,0
+T090,2025-12-09 06:47:37.936954,88,BestBuy,London,Online,0
+T091,2025-12-24 11:06:37.936954,248,BestBuy,California,Online,0
+T092,2025-12-26 07:36:37.936954,68,Apple,New York,Online,0
+T093,2025-12-15 00:29:37.936954,202,Amazon,New York,Online,0
+T094,2025-12-29 23:55:37.936954,164,Apple,New York,Online,0
+T095,2025-12-04 18:58:37.936954,199,Target,California,Online,0
+T096,2025-12-15 13:57:37.936954,64,Target,Florida,Online,0
+T097,2026-01-01 22:34:37.936954,277,Target,Illinois,In-store,0
+T098,2025-12-12 10:10:37.936954,147,Target,New York,In-store,0
+T099,2025-12-20 21:59:37.936954,247,Amazon,Florida,In-store,0
+T100,2025-12-07 17:30:37.936954,176,Apple,California,In-store,0
